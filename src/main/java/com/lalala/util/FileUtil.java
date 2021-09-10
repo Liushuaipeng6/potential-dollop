@@ -1,4 +1,4 @@
-package com.shdatabank.common;
+package com.lalala.util;
 
 import java.io.*;
 import java.net.MalformedURLException;
